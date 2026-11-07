@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pip-Boy: Mojave</string>
+    <style name="Theme.PipBoyMojave" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#020F08</item>
+        <item name="android:statusBarColor">#020F08</item>
+        <item name="android:navigationBarColor">#020F08</item>
+    </style>
+</resources>

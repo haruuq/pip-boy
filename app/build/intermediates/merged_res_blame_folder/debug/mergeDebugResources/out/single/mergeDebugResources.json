@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.example.pipboymojave.app-debug-56:/drawable-nodpi_img_caps.png.flat",
+        "source": "com.example.pipboymojave.app-main-58:/drawable-nodpi/img_caps.png"
+    },
+    {
+        "merged": "com.example.pipboymojave.app-debug-56:/font_sf_americana_dreams_bold.ttf.flat",
+        "source": "com.example.pipboymojave.app-main-58:/font/sf_americana_dreams_bold.ttf"
+    },
+    {
+        "merged": "com.example.pipboymojave.app-debug-56:/drawable-nodpi_img_olde_royale.png.flat",
+        "source": "com.example.pipboymojave.app-main-58:/drawable-nodpi/img_olde_royale.png"
+    },
+    {
+        "merged": "com.example.pipboymojave.app-debug-56:/font_add_city_boy.ttf.flat",
+        "source": "com.example.pipboymojave.app-main-58:/font/add_city_boy.ttf"
+    },
+    {
+        "merged": "com.example.pipboymojave.app-debug-56:/drawable-nodpi_img_pipboy.png.flat",
+        "source": "com.example.pipboymojave.app-main-58:/drawable-nodpi/img_pipboy.png"
+    },
+    {
+        "merged": "com.example.pipboymojave.app-debug-56:/drawable-nodpi_img_matches.png.flat",
+        "source": "com.example.pipboymojave.app-main-58:/drawable-nodpi/img_matches.png"
+    },
+    {
+        "merged": "com.example.pipboymojave.app-debug-56:/drawable-nodpi_img_avatar.png.flat",
+        "source": "com.example.pipboymojave.app-main-58:/drawable-nodpi/img_avatar.png"
+    },
+    {
+        "merged": "com.example.pipboymojave.app-debug-56:/font_overseer_oblique.ttf.flat",
+        "source": "com.example.pipboymojave.app-main-58:/font/overseer_oblique.ttf"
+    },
+    {
+        "merged": "com.example.pipboymojave.app-debug-56:/drawable-nodpi_img_medical_items.png.flat",
+        "source": "com.example.pipboymojave.app-main-58:/drawable-nodpi/img_medical_items.png"
+    },
+    {
+        "merged": "com.example.pipboymojave.app-debug-56:/font_gothic_821_condensed.otf.flat",
+        "source": "com.example.pipboymojave.app-main-58:/font/gothic_821_condensed.otf"
+    },
+    {
+        "merged": "com.example.pipboymojave.app-debug-56:/drawable-nodpi_img_radaway.png.flat",
+        "source": "com.example.pipboymojave.app-main-58:/drawable-nodpi/img_radaway.png"
+    },
+    {
+        "merged": "com.example.pipboymojave.app-debug-56:/drawable-nodpi_img_rad_barrel.png.flat",
+        "source": "com.example.pipboymojave.app-main-58:/drawable-nodpi/img_rad_barrel.png"
+    },
+    {
+        "merged": "com.example.pipboymojave.app-debug-56:/drawable-nodpi_img_vault_lunchbox.png.flat",
+        "source": "com.example.pipboymojave.app-main-58:/drawable-nodpi/img_vault_lunchbox.png"
+    },
+    {
+        "merged": "com.example.pipboymojave.app-debug-56:/drawable-nodpi_img_scrap_parts.png.flat",
+        "source": "com.example.pipboymojave.app-main-58:/drawable-nodpi/img_scrap_parts.png"
+    }
+]

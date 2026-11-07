@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+drawable img_avatar
+drawable img_caps
+drawable img_matches
+drawable img_medical_items
+drawable img_olde_royale
+drawable img_pipboy
+drawable img_rad_barrel
+drawable img_radaway
+drawable img_scrap_parts
+drawable img_vault_lunchbox
+font add_city_boy
+font gothic_821_condensed
+font overseer_oblique
+font sf_americana_dreams_bold
+string app_name
+style Theme.PipBoyMojave
